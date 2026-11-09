@@ -6,6 +6,13 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+## App Screenshots
+
+<p align="center">
+  <img src="OutputScreens/screen1.png" width="30%" />
+  <img src="OutputScreens/screen2.png" width="30%" />
+  <img src="OutputScreens/screen3.png" width="30%" />
+</p>
 
 A few resources to get you started if this is your first Flutter project:
 
